@@ -11,6 +11,7 @@
 # c --> $s2
 # d --> $s3
 main:    
+    #codes start from here
     
     li $s0, 5
     li $s1, 6
